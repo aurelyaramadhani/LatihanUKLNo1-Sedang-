@@ -1,0 +1,1 @@
+Program hitung faktorial berfungsi untuk menghitung hasil perkalian berurutan dari 1 sampai bilangan bulat positif yang dimasukkan pengguna. Cara kerjanya dengan meminta input bilangan, lalu menggunakan perulangan untuk mengalikan angka secara berurutan hingga diperoleh hasil faktorial, kemudian menampilkannya ke layar
